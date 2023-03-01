@@ -1,6 +1,6 @@
 
 // A screen has 25 lines and 80 columns.
-
+//
 // Link--> https://www.geeksforgeeks.org/rand-and-srand-in-ccpp/
 //https://www.youtube.com/watch?v=A6HlioKRMHM
 //https://www.youtube.com/watch?v=9QXn4tQdueU&t=555s
